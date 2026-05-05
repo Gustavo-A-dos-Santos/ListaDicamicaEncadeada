@@ -36,7 +36,7 @@ Implementação de uma **Lista Dinâmica Encadeada (Linked List)** genérica em 
 cd src
 
 # Compilar
-javac dev/aluno/datastructures/list/*.java dev/aluno/datastructures/list/tests/*.java
+javac dev/GAS/datastructures/list/*.java dev/GAS/datastructures/list/tests/*.java
 
 # Executar testes
 java dev.aluno.datastructures.list.tests.MyLinkedListTests
